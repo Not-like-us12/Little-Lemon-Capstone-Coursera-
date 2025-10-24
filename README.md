@@ -25,7 +25,9 @@ Package Manager: npm
 Version Control: Git & GitHub
 
 <h3>📂 Project Structure</h3>
+
 Little-Lemon-Project/
+
 ├─ public/                 # Static files
 
 ├─ src/                    # React components and styles
