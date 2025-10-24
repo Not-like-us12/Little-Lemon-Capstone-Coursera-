@@ -1,8 +1,8 @@
-Little Lemon Project 🍋
+<h1>Little Lemon Project 🍋</h1>
 
 Little Lemon is a modern, responsive web application designed for a fictional restaurant, built as part of the Meta Front-End Developer Professional Certificate. This project showcases practical skills in HTML, CSS, JavaScript, and React, creating an interactive and user-friendly interface for restaurant booking and menu exploration.
 
-🌟 Features
+<h3>🌟 Features</h3>
 
 Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
 
@@ -16,7 +16,7 @@ State Management: Utilizes React state for dynamic content updates.
 
 Smooth Animations: Subtle transitions enhance user experience.
 
-🛠️ Technologies Used
+<h3>🛠️ Technologies Used</h3>
 
 Frontend: HTML5, CSS3, JavaScript, React.js
 
@@ -24,7 +24,7 @@ Package Manager: npm
 
 Version Control: Git & GitHub
 
-📂 Project Structure
+<h3>📂 Project Structure</h3>
 Little-Lemon-Project/
 │
 ├─ public/                # Static files
