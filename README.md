@@ -27,9 +27,16 @@ Version Control: Git & GitHub
 <h3>📂 Project Structure</h3>
 Little-Lemon-Project/
 ├─ public/                 # Static files
+
 ├─ src/                    # React components and styles
+
 │ ├─ components/           # Reusable components
+
 │ ├─ pages/                # Individual pages (Home, Menu, Booking)
+
 │ └─ App.js                # Main application
+
 ├─ package.json            # Project metadata & dependencies
+
 └─ README.md               # Project documentation
+
